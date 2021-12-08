@@ -1,10 +1,12 @@
-import './App.css';
-import {Button} from "@material-ui/core"
+import { makeStyles } from "@material-ui/core/styles";
+import Navbar from "./components/navbar";
+const useStyles = makeStyles((theme) => ({
+  
+}));
 function App() {
+  const classes = useStyles();
   return (
-    <div className="App">
-      <Button variant='contained'>Material UI</Button>
-    </div>
+    <Navbar />
   );
 }
 
