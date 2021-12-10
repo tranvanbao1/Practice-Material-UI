@@ -97,8 +97,7 @@ function Navbar() {
             <Notifications />
           </Badge>
           <Avatar
-            alt="Remy Sharp"
-            src="https://images.pexels.com/photos/8647814/pexels-photo-8647814.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+            src="https://images.pexels.com/photos/8647812/pexels-photo-8647812.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
           />
         </div>
       </Toolbar>
